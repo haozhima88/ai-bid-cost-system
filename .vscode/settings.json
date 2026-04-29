@@ -1,5 +1,0 @@
-{
-  "python.analysis.extraPaths": ["./"],
-  "python.envFile": "${workspaceFolder}/.env",
-  "python.defaultInterpreterPath": "./venv/Scripts/python.exe"
-}
